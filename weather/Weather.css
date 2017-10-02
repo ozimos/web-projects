@@ -1,0 +1,11 @@
+body, div{
+  background-color: #9ba4bf;
+  color: white;
+}
+button{
+  color: rgb(18, 20, 242);
+  border-width: 0px;
+  border-style: none;
+  background-color: #9ba4bf;
+  cursor: pointer;
+}

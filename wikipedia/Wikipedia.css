@@ -1,0 +1,30 @@
+body,
+div {
+  background-color: #9ba4bf;
+  color: white;
+}
+button {
+  border-width: 0px;
+  border-style: none;
+  background-color: #9ba4bf;
+  cursor: pointer;
+}
+.input-group-addon {
+  border-width: 0px;
+  border-style: none;
+  background-color: #9ba4bf;
+}
+span {
+  color: white;
+  cursor: pointer;
+}
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+  color: white;
+}
+i {
+  color: yellow;
+}

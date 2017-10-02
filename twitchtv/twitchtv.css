@@ -1,0 +1,37 @@
+body {
+  background-color: #9ba4bf;
+  color: white;
+}
+div.online,
+div.offline {
+  margin-bottom: 5px;
+}
+span {
+  color: #6d4dcc;
+}
+
+button {
+  width: 100px;
+  cursor: pointer;
+}
+
+.online {
+  background-color: #5aa6de;
+}
+
+.offline {
+  background-color: #98eb1d;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: white;
+}
+
+img {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

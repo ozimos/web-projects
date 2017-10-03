@@ -1,10 +1,11 @@
 {
-  "name": "weather",
+  "name": "Web_Projects",
   "version": "1.0.0",
   "description": "",
-  "main": "Weather.js",
+  "main": "Web_Projects.js",
   "scripts": {
-    "babel": "babel --presets env twitchtv.js -o build/twitchtv.bundle.js",
+    "babel":
+      "babel --presets env twitchtv/twitchtv.js -o build/twitchtv.bundle.js",
     "start": "http-server -p 9050"
   },
   "author": "",

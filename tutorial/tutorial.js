@@ -49,7 +49,5 @@ function listPrimes() {
     }
     result += `${i}, `;
   }
-  console.log(`prime numbers in the interval from 2 to n are /n ${result}`);
+  return `prime numbers in the interval from 2 to n are /n ${result}`;
 }
-
-listPrimes();

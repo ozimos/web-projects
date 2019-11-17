@@ -4,8 +4,7 @@
   "description": "",
   "main": "Web_Projects.js",
   "scripts": {
-    "babel":
-      "babel --presets env twitchtv/twitchtv.js -o build/twitchtv.bundle.js",
+    "babel": "babel --presets env twitchtv/twitchtv.js -o build/twitchtv.bundle.js",
     "start": "http-server -p 9050"
   },
   "author": "",
@@ -15,6 +14,6 @@
     "babel-core": "^6.26.0",
     "babel-preset-env": "^1.6.0",
     "babel-preset-es2015": "^6.24.1",
-    "http-server": "^0.10.0"
+    "http-server": "^0.11.1"
   }
 }
